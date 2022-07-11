@@ -1,1 +1,2 @@
-# rammus-c35
+# synchronousBallMovement
+Ball moving synchronously
